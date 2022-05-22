@@ -1,0 +1,16 @@
+.carousel-item {
+	height: 600px;
+    background-color: antiquewhite;
+}
+
+.carousel-control-next-icon {
+	background-image: url(./img/001-right-arrow.png);
+}
+
+.carousel-control-prev-icon {
+	background-image: url(./img/icons8-double-left-90.png);
+}
+.carousel-caption {
+	bottom: 50%;
+	background: red;
+}
